@@ -1,0 +1,27 @@
+nav{
+    background-color: var(--color1);
+}
+
+.nav-main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-title{
+    padding: 12px;
+}
+
+.nav-main ul li{
+    display: inline-block;
+    padding: 12px;
+}
+
+.nav-main ul li:hover{
+    background-color: var(--color2);
+}
+
+.nav-links{
+    text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
+}

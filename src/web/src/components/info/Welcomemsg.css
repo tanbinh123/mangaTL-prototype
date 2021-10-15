@@ -1,0 +1,36 @@
+
+.welcome-main{
+    text-align: center;
+    width: 50%;
+    background-image: linear-gradient(to bottom right, var(--color1), var(--color2));
+    padding: 24px;
+    margin: 24px auto;
+    border-radius: 12px;
+    border: 1px solid #FBF4E9;
+}
+
+h3, p{
+    color: #EEEEEE;
+}
+
+.welcome-exam{
+    font-size: large;
+    margin-top: 12px;
+}
+
+.exam-srcto{
+    margin: 24px;
+    justify-content: center;
+    display: flex;
+}
+
+.exam-srcto h3{
+    align-self: center;
+}
+
+.exam-srcto img{
+    border-radius: 24px;
+    border: 2px solid var(--color1);
+    margin: 0px 24px;
+    width: 250px;
+}

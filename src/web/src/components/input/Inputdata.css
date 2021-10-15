@@ -1,0 +1,21 @@
+.input-main{
+    padding: 32px 0px;
+    justify-content: center;
+    display: flex;
+}
+
+.input-main input{
+    font-size: 16px;
+    padding: 12px;
+    width: 50%;
+}
+
+.input-main button{
+    width: 10%;
+}
+
+.input-main button:hover{
+    color: white;
+    cursor: pointer;
+    background-color: var(--color1);
+}

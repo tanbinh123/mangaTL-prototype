@@ -1,0 +1,18 @@
+:root{
+    --color1: #334756;
+    --color2: #082032;
+}
+
+* {
+    /* jadi box-sizing border box ni fungsinya agar... yaa gimana yaaaa ..
+    biar padding nya ga ditamabah ke width gitu jadinya width 
+    bakal tetep tapi element didalamnya yg ke padding ... ngerti gakkk */
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+body{
+    background-image: linear-gradient(to right, #152D35, #2C2E43);
+}
