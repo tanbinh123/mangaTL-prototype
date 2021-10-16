@@ -25,3 +25,9 @@ nav{
     color: white;
     font-size: 1.5rem;
 }
+
+@media (max-width: 1024px){
+    .nav-links{
+        font-size: 1rem;
+    }
+}

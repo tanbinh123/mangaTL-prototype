@@ -34,3 +34,13 @@ h3, p{
     margin: 0px 24px;
     width: 250px;
 }
+
+/* 
+    agar responsive boyyy 
+    max-width = dimana ketika size window berada dibawah max-width maka akan melakukan aksi dibawah
+*/
+@media (max-width: 1024px) {
+    .exam-srcto img{
+        width: 150px;
+    }
+}

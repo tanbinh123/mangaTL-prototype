@@ -10,9 +10,9 @@ export const Welcomemsg = function(props){
             <div className="welcome-exam">
                 <p>Here the example of result</p>
                 <div className="exam-srcto">
-                    <img src="/img/wlcsrc.jpg" alt="Exam Src"></img>
+                    <img src="/img/mng-src.jpg" alt="Exam Src"></img>
                     <h3>Into</h3>
-                    <img src="/img/wlcto.jpg" alt="Exam To"></img>
+                    <img src="/img/mng-to.jpg" alt="Exam To"></img>
                 </div>
             </div>
         </div>

@@ -3,6 +3,10 @@
     --color2: #082032;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 * {
     /* jadi box-sizing border box ni fungsinya agar... yaa gimana yaaaa ..
     biar padding nya ga ditamabah ke width gitu jadinya width 
